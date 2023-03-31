@@ -1,12 +1,5 @@
-<style>
-    table, th, td {
-    border: 0px;
-    border-collapse: collapse;
-    }
-</style>
-
 <center>
-    <table style="max-width:800px;">
+    <table style="max-width:800px; border: 0px;">
         <tr>
             <td><center><img src="https://github-readme-stats.vercel.app/api?username=SimonSchwaiger&show_icons=true&theme=cobalt" alt="GitHub Stats"></center></td>
             <td rowspan="2"><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonSchwaiger&show_icons=true&theme=cobalt&langs_count=8" alt="Top Languages"></center></td>
