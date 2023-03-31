@@ -1,5 +1,24 @@
 ### Hi there 👋
 
+<style>
+    table, th, td {
+    border: 0px;
+    border-collapse: collapse;
+    }
+</style>
+
+<center>
+    <table style="max-width:800px;">
+        <tr>
+            <td><center><img src="https://github-readme-stats.vercel.app/api?username=SimonSchwaiger&show_icons=true&theme=cobalt" alt="GitHub Stats"></center></td>
+            <td rowspan="2"><center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonSchwaiger&show_icons=true&theme=cobalt&langs_count=8" alt="Top Languages"></center></td>
+        </tr>
+        <tr>
+            <td><center><img src="https://streak-stats.demolab.com?user=SimonSchwaiger&theme=vue-dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"></center></td>
+        </tr>
+    </table>
+</center>
+
 <!--
 **SimonSchwaiger/SimonSchwaiger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
