@@ -1,11 +1,11 @@
 <center>
-    <table style="max-width:700px; border: 0px;">
-        <tr style="border: 0px;">
-            <td style="border: 0px;" valign="center" align="center"><img src="https://github-readme-stats.vercel.app/api?username=SimonSchwaiger&show_icons=true&theme=cobalt" alt="GitHub Stats"></td>
-            <td rowspan="2" style="border: 0px;" valign="center" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonSchwaiger&show_icons=true&theme=cobalt&langs_count=8" alt="Top Languages"></td>
+    <table border="0" cellspacing="0" cellpadding="0" align="center" valign="center" style="max-width=700px;">
+        <tr>
+            <td border="0" valign="center" align="center"><img src="https://github-readme-stats.vercel.app/api?username=SimonSchwaiger&show_icons=true&theme=cobalt" alt="GitHub Stats"></td>
+            <td border="0" rowspan="2" valign="center" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonSchwaiger&show_icons=true&theme=cobalt&langs_count=8" alt="Top Languages"></td>
         </tr>
-        <tr style="border: 0px;">
-            <td style="border: 0px;" valign="center" align="center"><img src="https://streak-stats.demolab.com?user=SimonSchwaiger&theme=vue-dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"></td>
+        <tr>
+            <td border="0" valign="center" align="center"><img src="https://streak-stats.demolab.com?user=SimonSchwaiger&theme=vue-dark&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"></td>
         </tr>
     </table>
 </center>
